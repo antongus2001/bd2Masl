@@ -1,0 +1,7 @@
+{
+    "name": "bojack/app",
+    "description": "BoJack",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
